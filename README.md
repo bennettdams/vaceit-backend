@@ -1,2 +1,2 @@
 # vaceit-backend
-Backend for VACEIT.com | Python / Flask
+Backend for VACEIT
